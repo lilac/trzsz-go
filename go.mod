@@ -2,8 +2,6 @@ module github.com/trzsz/trzsz-go
 
 go 1.20
 
-replace github.com/trzsz/trzsz-go/trzsz => ../../trzsz
-
 require (
 	github.com/UserExistsError/conpty v0.1.0
 	github.com/alexflint/go-arg v1.4.3
